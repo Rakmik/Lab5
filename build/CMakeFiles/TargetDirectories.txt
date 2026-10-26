@@ -1,0 +1,3 @@
+D:/KRabik/ТПП/Lab5/build/CMakeFiles/SpaceShipSimulation.dir
+D:/KRabik/ТПП/Lab5/build/CMakeFiles/edit_cache.dir
+D:/KRabik/ТПП/Lab5/build/CMakeFiles/rebuild_cache.dir

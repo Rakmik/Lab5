@@ -1,0 +1,8 @@
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libogg/x64-windows-dbg/CMakeFiles/ogg.dir
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libogg/x64-windows-dbg/CMakeFiles/package.dir
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libogg/x64-windows-dbg/CMakeFiles/package_source.dir
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libogg/x64-windows-dbg/CMakeFiles/edit_cache.dir
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libogg/x64-windows-dbg/CMakeFiles/rebuild_cache.dir
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libogg/x64-windows-dbg/CMakeFiles/list_install_components.dir
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libogg/x64-windows-dbg/CMakeFiles/install.dir
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libogg/x64-windows-dbg/CMakeFiles/install/local.dir

@@ -1,0 +1,11 @@
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/lib/libpng16d.lib
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/bin/libpng16d.dll
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/lib/pkgconfig/libpng16.pc
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/lib/libpng/libpng16.cmake
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/lib/libpng/libpng16-debug.cmake
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/lib/libpng16d.lib
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/bin/libpng16d.dll
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/lib/cmake/PNG/PNGTargets.cmake
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/lib/cmake/PNG/PNGTargets-debug.cmake
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/lib/cmake/PNG/PNGConfig.cmake
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows/debug/lib/cmake/PNG/PNGConfigVersion.cmake

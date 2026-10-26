@@ -1,0 +1,17 @@
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/tools/brotli/brotli.exe
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/brotlienc.lib
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/bin/brotlienc.dll
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/brotlidec.lib
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/bin/brotlidec.dll
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/brotlicommon.lib
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/bin/brotlicommon.dll
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/share/unofficial-brotli/unofficial-brotli-config.cmake
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/share/unofficial-brotli/unofficial-brotli-config-debug.cmake
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/pkgconfig/libbrotlicommon.pc
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/pkgconfig/libbrotlidec.pc
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/pkgconfig/libbrotlienc.pc
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/share/man/man1/brotli.1
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/share/man/man3/constants.h.3
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/share/man/man3/decode.h.3
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/share/man/man3/encode.h.3
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/share/man/man3/types.h.3

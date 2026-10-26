@@ -1,0 +1,10 @@
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/debug/lib/ogg.lib
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/debug/bin/ogg.dll
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/debug/include/ogg/config_types.h
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/debug/include/ogg/ogg.h
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/debug/include/ogg/os_types.h
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/debug/lib/cmake/Ogg/OggTargets.cmake
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/debug/lib/cmake/Ogg/OggTargets-debug.cmake
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/debug/lib/cmake/Ogg/OggConfig.cmake
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/debug/lib/cmake/Ogg/OggConfigVersion.cmake
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows/debug/lib/pkgconfig/ogg.pc

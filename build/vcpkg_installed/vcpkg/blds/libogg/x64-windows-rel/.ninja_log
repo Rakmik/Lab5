@@ -1,0 +1,6 @@
+# ninja log v7
+16	126	8147472280353123	CMakeFiles/ogg.dir/src/bitwise.c.obj	f6ac8996f00368f8
+23	175	8147472280433135	CMakeFiles/ogg.dir/src/framing.c.obj	75395731e14d1dbf
+176	461	8147472284190822	ogg.dll	f4cce392b5c68299
+176	461	8147472284190822	ogg.lib	f4cce392b5c68299
+462	618	8147472284817927	CMakeFiles/install.util	d8dec86a8ca6ff51

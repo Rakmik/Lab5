@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/KRabik/\u0422\u041f\u041f/Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-dbg/cmake_install.cmake",
+		"D:/KRabik/\u0422\u041f\u041f/Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-dbg/lib/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

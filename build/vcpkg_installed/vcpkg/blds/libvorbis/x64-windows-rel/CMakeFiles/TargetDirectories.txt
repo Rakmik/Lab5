@@ -1,0 +1,13 @@
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/CMakeFiles/edit_cache.dir
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/CMakeFiles/list_install_components.dir
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/CMakeFiles/install.dir
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/CMakeFiles/install/local.dir
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/lib/CMakeFiles/vorbis.dir
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/lib/CMakeFiles/vorbisenc.dir
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/lib/CMakeFiles/vorbisfile.dir
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/lib/CMakeFiles/edit_cache.dir
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/lib/CMakeFiles/rebuild_cache.dir
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/lib/CMakeFiles/list_install_components.dir
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/lib/CMakeFiles/install.dir
+D:/KRabik/ТПП/Lab5/build/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-rel/lib/CMakeFiles/install/local.dir

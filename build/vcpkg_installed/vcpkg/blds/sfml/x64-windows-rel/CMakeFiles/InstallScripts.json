@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/KRabik/\u0422\u041f\u041f/Lab5/build/vcpkg_installed/vcpkg/blds/sfml/x64-windows-rel/cmake_install.cmake",
+		"D:/KRabik/\u0422\u041f\u041f/Lab5/build/vcpkg_installed/vcpkg/blds/sfml/x64-windows-rel/src/SFML/cmake_install.cmake",
+		"D:/KRabik/\u0422\u041f\u041f/Lab5/build/vcpkg_installed/vcpkg/blds/sfml/x64-windows-rel/src/SFML/System/cmake_install.cmake",
+		"D:/KRabik/\u0422\u041f\u041f/Lab5/build/vcpkg_installed/vcpkg/blds/sfml/x64-windows-rel/src/SFML/Main/cmake_install.cmake",
+		"D:/KRabik/\u0422\u041f\u041f/Lab5/build/vcpkg_installed/vcpkg/blds/sfml/x64-windows-rel/src/SFML/Window/cmake_install.cmake",
+		"D:/KRabik/\u0422\u041f\u041f/Lab5/build/vcpkg_installed/vcpkg/blds/sfml/x64-windows-rel/src/SFML/Network/cmake_install.cmake",
+		"D:/KRabik/\u0422\u041f\u041f/Lab5/build/vcpkg_installed/vcpkg/blds/sfml/x64-windows-rel/src/SFML/Graphics/cmake_install.cmake",
+		"D:/KRabik/\u0422\u041f\u041f/Lab5/build/vcpkg_installed/vcpkg/blds/sfml/x64-windows-rel/src/SFML/Audio/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
